@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+body{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.mycan{
+    background-color: white;
+}
+.buttons{
+    margin-bottom: 1rem;
+}
